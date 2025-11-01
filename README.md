@@ -12,4 +12,24 @@ Realizada en:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
 
-<img width="1366" height="910" alt="navmenu(1)" src="https://github.com/user-attachments/assets/3dbf0583-284a-4006-ae80-ab00da106954" />
+<h2>Sección Nav</h2>
+<img width="1366" height="910" alt="navmenu" src="https://github.com/user-attachments/assets/77ad0e28-5bdb-4e9e-b29e-ef23f56d6ea1" />
+
+<h2>Sección Servicios</h2>
+<img width="1366" height="961" alt="Group 1" src="https://github.com/user-attachments/assets/907f70b5-9c45-46ec-bc16-f7c2511f653e" />
+<img width="1366" height="961" alt="Group 2" src="https://github.com/user-attachments/assets/1eacdc06-5db6-4292-9a6d-059b1c6e4c7d" />
+
+<h2>Sección Contactos</h2>
+<img width="1366" height="910" alt="parte-contactos" src="https://github.com/user-attachments/assets/ef46ee21-5c65-48d4-b159-55407f0aea89" />
+
+<h2>Sección Clientes</h2>
+<img width="1366" height="910" alt="Group 3" src="https://github.com/user-attachments/assets/0fc3e1d4-22ef-4b7a-9e4b-7df1ab827cf8" />
+
+<h2>Sección Nosotros</h2>
+<img width="1366" height="910" alt="Nosotros" src="https://github.com/user-attachments/assets/e7b9c9d7-0d16-45b8-9ffd-3eaba1e0a427" />
+
+<h2>Sección Footer</h2>
+<img width="1366" height="439" alt="footer" src="https://github.com/user-attachments/assets/53b792e8-9c71-43d4-99a8-ad22165c204a" />
+
+<h2>Web Entera</h2>
+<img width="1366" height="5085" alt="Group 4" src="https://github.com/user-attachments/assets/fb1854db-8830-489b-8869-03697c5a36c8" />
