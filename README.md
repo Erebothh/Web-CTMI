@@ -17,7 +17,7 @@ Realizada en:
 
 <h2>Sección Servicios</h2>
 <img width="1366" height="961" alt="Group 1" src="https://github.com/user-attachments/assets/907f70b5-9c45-46ec-bc16-f7c2511f653e" />
-<img width="1366" height="961" alt="Group 2" src="https://github.com/user-attachments/assets/1eacdc06-5db6-4292-9a6d-059b1c6e4c7d" />
+<img width="1366" height="961" alt="Group 11" src="https://github.com/user-attachments/assets/b62b2bad-98c7-4f03-8a09-7d129e4b3e69" />
 
 <h2>Sección Contactos</h2>
 <img width="1366" height="910" alt="parte-contactos" src="https://github.com/user-attachments/assets/ef46ee21-5c65-48d4-b159-55407f0aea89" />
@@ -32,4 +32,4 @@ Realizada en:
 <img width="1366" height="439" alt="footer" src="https://github.com/user-attachments/assets/53b792e8-9c71-43d4-99a8-ad22165c204a" />
 
 <h2>Web Entera</h2>
-<img width="1366" height="5085" alt="Group 4" src="https://github.com/user-attachments/assets/fb1854db-8830-489b-8869-03697c5a36c8" />
+<img width="1366" height="5085" alt="Group 13" src="https://github.com/user-attachments/assets/403d9c17-face-4bd4-8267-bb79b82730f6" />
