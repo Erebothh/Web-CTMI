@@ -12,5 +12,4 @@ Realizada en:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
+<img width="1366" height="910" alt="navmenu(1)" src="https://github.com/user-attachments/assets/3dbf0583-284a-4006-ae80-ab00da106954" />
